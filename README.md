@@ -242,7 +242,7 @@ Through this project, I strengthened my ability to:
 
 # 👨‍💻 Author
 
-**Athish Ras**
+Athish Raswanth
 
 Aspiring Data Analyst | Python | SQL | Power BI
 
